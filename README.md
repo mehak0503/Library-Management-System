@@ -2,7 +2,7 @@
 
 A user driven library management system with three entities involved i.e. Students, Library Staff and Supplier. Each entity has a provision to perform only defined set of functions.
 
-## Technologies Used
+## TECHNOLOGIES USED
 - C++
 - make
 - SQLite
@@ -10,8 +10,8 @@ A user driven library management system with three entities involved i.e. Studen
 
 ## BUILD INSTRUCTIONS
 - Using g++
-> g++ main.cpp db.cpp Menu.cpp -lsqlite3
-> ./a.out
+1. g++ main.cpp db.cpp Menu.cpp -lsqlite3
+2. ./a.out
 
 - Using IDE
 simply run main.cpp with adding sqlite3 path to linker

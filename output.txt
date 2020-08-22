@@ -1,0 +1,719 @@
+[3J[H[2J
+
+***************LIBRARY MANAGEMENT SYSTEM**************
+
+
+
+
+
+Password: [3J[H[2J
+Operation successfully done!!
+
+Operation successfully done!!
+
+Operation successfully done!!
+
+Operation successfully done!!
+>> Choose user type:
+
+   1. Library Staff
+
+   2. User
+
+   3. Supplier
+
+   4. Exit
+
+>> Enter your choice: [3J[H[2J
+*********** WELCOME TO SUPPLIER SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. SEARCH BOOK
+
+    2. APPLY FOR MEMBERSHIP
+
+    3. SELL BOOK
+
+    4. MAIN MENU
+
+>> Enter your choice: [3J[H[2J***********APPLY FOR MEMBERSHIP****************
+
+
+Enter UserType (1 for Normal User, 2 for Supplier, 3 for Others): 
+Enter user name: 
+Enter address: 
+Enter phone number (only 10 digits): 
+Operation successfully done!!
+
+Please note your user id is 1
+
+Do you want to continue: (y/n) [3J[H[2J***********APPLY FOR MEMBERSHIP****************
+
+
+Enter UserType (1 for Normal User, 2 for Supplier, 3 for Others): 
+Enter user name: 
+Enter address: 
+Enter phone number (only 10 digits): 
+Operation successfully done!!
+
+Please note your user id is 2
+
+Do you want to continue: (y/n) [3J[H[2J
+*********** WELCOME TO SUPPLIER SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. SEARCH BOOK
+
+    2. APPLY FOR MEMBERSHIP
+
+    3. SELL BOOK
+
+    4. MAIN MENU
+
+>> Enter your choice: [3J[H[2J>> Choose user type:
+
+   1. Library Staff
+
+   2. User
+
+   3. Supplier
+
+   4. Exit
+
+>> Enter your choice: [3J[H[2J
+*********** WELCOME TO STAFF SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. ADD BOOK
+
+    2. SEARCH BOOK
+
+    3. MARK RESERVED
+
+    4. MODIFY BOOK INFO
+
+    5. LEND BOOK TO USER
+
+    6. TAKE RETURNED BOOK
+
+    7. ADD A MEMBER
+
+    8. VIEW ALL EVENTS
+
+    9. DELETE
+
+    10. BUY AND ADD BOOK
+
+    11. MAIN MENU
+
+>> Enter your choice: [3J[H[2J***********ADD MEMBER****************
+
+USERID = 1
+USERTYPE = 2
+NAME = john
+ADDRESS = toronto
+PHONE = 4635544788
+
+USERID = 2
+USERTYPE = 1
+NAME = adam
+ADDRESS = town
+PHONE = 1234567890
+
+
+Enter user id to add member: 
+Operation successfully done!!
+
+Do you want to continue: (y/n) [3J[H[2J***********ADD MEMBER****************
+
+USERID = 2
+USERTYPE = 1
+NAME = adam
+ADDRESS = town
+PHONE = 1234567890
+
+
+Enter user id to add member: 
+Operation successfully done!!
+
+Do you want to continue: (y/n) [3J[H[2J
+*********** WELCOME TO STAFF SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. ADD BOOK
+
+    2. SEARCH BOOK
+
+    3. MARK RESERVED
+
+    4. MODIFY BOOK INFO
+
+    5. LEND BOOK TO USER
+
+    6. TAKE RETURNED BOOK
+
+    7. ADD A MEMBER
+
+    8. VIEW ALL EVENTS
+
+    9. DELETE
+
+    10. BUY AND ADD BOOK
+
+    11. MAIN MENU
+
+>> Enter your choice: [3J[H[2J>> Choose user type:
+
+   1. Library Staff
+
+   2. User
+
+   3. Supplier
+
+   4. Exit
+
+>> Enter your choice: [3J[H[2J
+
+***************LIBRARY MANAGEMENT SYSTEM**************
+
+
+
+
+
+Password: [3J[H[2J
+Operation successfully done!!
+
+Operation successfully done!!
+
+Operation successfully done!!
+
+Operation successfully done!!
+>> Choose user type:
+
+   1. Library Staff
+
+   2. User
+
+   3. Supplier
+
+   4. Exit
+
+>> Enter your choice: [3J[H[2J
+*********** WELCOME TO SUPPLIER SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. SEARCH BOOK
+
+    2. APPLY FOR MEMBERSHIP
+
+    3. SELL BOOK
+
+    4. MAIN MENU
+
+>> Enter your choice: [3J[H[2J*********** REQUEST TO SELL BOOK ****************
+
+
+Enter Id: 
+Enter book title: 
+Enter book author: 
+Enter price: 
+Operation successfully done!!
+
+Do you want to continue: (y/n) [3J[H[2J
+*********** WELCOME TO SUPPLIER SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. SEARCH BOOK
+
+    2. APPLY FOR MEMBERSHIP
+
+    3. SELL BOOK
+
+    4. MAIN MENU
+
+>> Enter your choice: [3J[H[2J>> Choose user type:
+
+   1. Library Staff
+
+   2. User
+
+   3. Supplier
+
+   4. Exit
+
+>> Enter your choice: [3J[H[2J
+*********** WELCOME TO STAFF SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. ADD BOOK
+
+    2. SEARCH BOOK
+
+    3. MARK RESERVED
+
+    4. MODIFY BOOK INFO
+
+    5. LEND BOOK TO USER
+
+    6. TAKE RETURNED BOOK
+
+    7. ADD A MEMBER
+
+    8. VIEW ALL EVENTS
+
+    9. DELETE
+
+    10. BUY AND ADD BOOK
+
+    11. MAIN MENU
+
+>> Enter your choice: [3J[H[2J***********BUY & ADD BOOK****************
+
+RQST_ID = 1
+USERID = 1
+RQST_TYPE = 2
+ISBN = NULL
+TITLE = db
+AUTHOR = korth
+PRICE = 100
+
+
+Enter RQST_ID to enter book: 
+Enter ISBN for the book: 
+Operation successfully done!!
+
+Do you want to continue: (y/n) [3J[H[2J
+*********** WELCOME TO STAFF SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. ADD BOOK
+
+    2. SEARCH BOOK
+
+    3. MARK RESERVED
+
+    4. MODIFY BOOK INFO
+
+    5. LEND BOOK TO USER
+
+    6. TAKE RETURNED BOOK
+
+    7. ADD A MEMBER
+
+    8. VIEW ALL EVENTS
+
+    9. DELETE
+
+    10. BUY AND ADD BOOK
+
+    11. MAIN MENU
+
+>> Enter your choice: [3J[H[2J>> Choose user type:
+
+   1. Library Staff
+
+   2. User
+
+   3. Supplier
+
+   4. Exit
+
+>> Enter your choice: [3J[H[2J
+
+***************LIBRARY MANAGEMENT SYSTEM**************
+
+
+
+
+
+Password: [3J[H[2J
+Operation successfully done!!
+
+Operation successfully done!!
+
+Operation successfully done!!
+
+Operation successfully done!!
+>> Choose user type:
+
+   1. Library Staff
+
+   2. User
+
+   3. Supplier
+
+   4. Exit
+
+>> Enter your choice: [3J[H[2J
+*********** WELCOME TO SUPPLIER SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. SEARCH BOOK
+
+    2. APPLY FOR MEMBERSHIP
+
+    3. SELL BOOK
+
+    4. MAIN MENU
+
+>> Enter your choice: [3J[H[2J*********** REQUEST TO SELL BOOK ****************
+
+
+Enter Id: 
+Enter book title: 
+Enter book author: 
+Enter price: 
+Operation successfully done!!
+
+Do you want to continue: (y/n) [3J[H[2J
+*********** WELCOME TO SUPPLIER SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. SEARCH BOOK
+
+    2. APPLY FOR MEMBERSHIP
+
+    3. SELL BOOK
+
+    4. MAIN MENU
+
+>> Enter your choice: [3J[H[2J>> Choose user type:
+
+   1. Library Staff
+
+   2. User
+
+   3. Supplier
+
+   4. Exit
+
+>> Enter your choice: [3J[H[2J
+
+***************LIBRARY MANAGEMENT SYSTEM**************
+
+
+
+
+
+Password: [3J[H[2J
+Operation successfully done!!
+
+Operation successfully done!!
+
+Operation successfully done!!
+
+Operation successfully done!!
+>> Choose user type:
+
+   1. Library Staff
+
+   2. User
+
+   3. Supplier
+
+   4. Exit
+
+>> Enter your choice: [3J[H[2J
+*********** WELCOME TO USER SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. SEARCH BOOK
+
+    2. APPLY FOR MEMBERSHIP
+
+    3. BORROW BOOK
+
+    4. RETURN BOOK
+
+    5. MAIN MENU
+
+>> Enter your choice: [3J[H[2J*********** REQUEST TO BORROW BOOK ****************
+
+Please write the issued date and return within 14 days.
+After 14 days, fine of Rs 1 per day will be added to your account.
+
+
+Enter Borrower Id: 
+Enter ISBN: 
+Operation successfully done!!
+
+Do you want to continue: (y/n) [3J[H[2J
+*********** WELCOME TO USER SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. SEARCH BOOK
+
+    2. APPLY FOR MEMBERSHIP
+
+    3. BORROW BOOK
+
+    4. RETURN BOOK
+
+    5. MAIN MENU
+
+>> Enter your choice: [3J[H[2J>> Choose user type:
+
+   1. Library Staff
+
+   2. User
+
+   3. Supplier
+
+   4. Exit
+
+>> Enter your choice: [3J[H[2J
+*********** WELCOME TO STAFF SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. ADD BOOK
+
+    2. SEARCH BOOK
+
+    3. MARK RESERVED
+
+    4. MODIFY BOOK INFO
+
+    5. LEND BOOK TO USER
+
+    6. TAKE RETURNED BOOK
+
+    7. ADD A MEMBER
+
+    8. VIEW ALL EVENTS
+
+    9. DELETE
+
+    10. BUY AND ADD BOOK
+
+    11. MAIN MENU
+
+>> Enter your choice: [3J[H[2J*********** LEND BOOK ****************
+
+Please write the issued date Sat Aug 22 15:24:31 2020
+ and return within 14 days.
+After 14 days, fine of Rs 1 per day will be added to your account.
+
+RQST_ID = 2
+USERID = 1
+RQST_TYPE = 0
+ISBN = db1
+TITLE = NULL
+AUTHOR = NULL
+PRICE = NULL
+
+
+Enter RQST_ID to lend book: 
+Operation successfully done!!
+
+Do you want to continue: (y/n) [3J[H[2J
+*********** WELCOME TO STAFF SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. ADD BOOK
+
+    2. SEARCH BOOK
+
+    3. MARK RESERVED
+
+    4. MODIFY BOOK INFO
+
+    5. LEND BOOK TO USER
+
+    6. TAKE RETURNED BOOK
+
+    7. ADD A MEMBER
+
+    8. VIEW ALL EVENTS
+
+    9. DELETE
+
+    10. BUY AND ADD BOOK
+
+    11. MAIN MENU
+
+>> Enter your choice: [3J[H[2J>> Choose user type:
+
+   1. Library Staff
+
+   2. User
+
+   3. Supplier
+
+   4. Exit
+
+>> Enter your choice: [3J[H[2J
+
+***************LIBRARY MANAGEMENT SYSTEM**************
+
+
+
+
+
+Password: [3J[H[2J
+Operation successfully done!!
+
+Operation successfully done!!
+
+Operation successfully done!!
+
+Operation successfully done!!
+>> Choose user type:
+
+   1. Library Staff
+
+   2. User
+
+   3. Supplier
+
+   4. Exit
+
+>> Enter your choice: [3J[H[2J
+*********** WELCOME TO USER SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. SEARCH BOOK
+
+    2. APPLY FOR MEMBERSHIP
+
+    3. BORROW BOOK
+
+    4. RETURN BOOK
+
+    5. MAIN MENU
+
+>> Enter your choice: [3J[H[2J*********** REQUEST TO RETURN BOOK ****************
+
+Please write the issued date and return within 14 days.
+After 14 days, fine of Rs 1 per day will be added to your account.
+
+
+Enter Borrower Id: 
+Enter ISBN: 
+Operation successfully done!!
+
+Do you want to continue: (y/n) [3J[H[2J
+*********** WELCOME TO USER SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. SEARCH BOOK
+
+    2. APPLY FOR MEMBERSHIP
+
+    3. BORROW BOOK
+
+    4. RETURN BOOK
+
+    5. MAIN MENU
+
+>> Enter your choice: [3J[H[2J>> Choose user type:
+
+   1. Library Staff
+
+   2. User
+
+   3. Supplier
+
+   4. Exit
+
+>> Enter your choice: [3J[H[2J
+*********** WELCOME TO STAFF SECTION ***********
+
+
+>> Choose operation: 
+
+
+    1. ADD BOOK
+
+    2. SEARCH BOOK
+
+    3. MARK RESERVED
+
+    4. MODIFY BOOK INFO
+
+    5. LEND BOOK TO USER
+
+    6. TAKE RETURNED BOOK
+
+    7. ADD A MEMBER
+
+    8. VIEW ALL EVENTS
+
+    9. DELETE
+
+    10. BUY AND ADD BOOK
+
+    11. MAIN MENU
+
+>> Enter your choice: [3J[H[2J*********** GET RETURN BOOK ****************
+
+RQST_ID = 3
+USERID = 1
+RQST_TYPE = 1
+ISBN = db1
+TITLE = NULL
+AUTHOR = NULL
+PRICE = NULL
+
+
+Enter RQST_ID to get return book: Book was not issued
+Operation successfully done!!
+
+Do you want to continue: (y/n) [3J[H[2J>> Choose user type:
+
+   1. Library Staff
+
+   2. User
+
+   3. Supplier
+
+   4. Exit
+
+>> Enter your choice: 
